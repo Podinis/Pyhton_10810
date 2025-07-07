@@ -1,0 +1,2 @@
+ - Como se comporta uma IA
+ - 
