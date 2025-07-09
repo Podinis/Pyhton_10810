@@ -1,9 +1,9 @@
  1ª Sessão - Apresentação <br>
- 2ª Sessão - Como se comporta uma IA, o que é uma IA
- 3ª Sessão - Machine Learning
- 4ª Sessão - 
- 5ª Sessão - Aprendizagem não supervisionada
- 6ª Sessão - Aprendizagem supervisionada
- 7ª Sessão - Segmentações
- 8ª Sessão - Projeto
+ 2ª Sessão - Como se comporta uma IA, o que é uma IA  <br>
+ 3ª Sessão - Machine Learning  <br>
+ 4ª Sessão -   <br>
+ 5ª Sessão - Aprendizagem não supervisionada  <br>
+ 6ª Sessão - Aprendizagem supervisionada  <br>
+ 7ª Sessão - Segmentações  <br>
+ 8ª Sessão - Projeto  <br>
  
