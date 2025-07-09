@@ -1,4 +1,4 @@
- 1ª Sessão - Apresentação 
+ 1ª Sessão - Apresentação <br>
  2ª Sessão - Como se comporta uma IA, o que é uma IA
  3ª Sessão - Machine Learning
  4ª Sessão - 
